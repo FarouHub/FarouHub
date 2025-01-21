@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! My name is Nicolas Sittler and I'm a Software engineer from Mulhouse (France, Alsace)</h1>
 
 ###
-<div align="left">
+<div align="center" style="padding-bottom: 10px;">
 !!! Underconstruction !!!
 !!! Only public stats, private is comming !!!
 </div>
