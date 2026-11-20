@@ -1,9 +1,8 @@
 # Nicolas Sittler
 
-**Product Engineer full stack senior** — TypeScript, React, Node.js, IA agentique.
-CTO et cofondateur de [bonjour.fun](https://bonjour.fun). Basé en Alsace.
+**CTO et cofondateur de [bonjour.fun](https://bonjour.fun).** Basé en Alsace.
 
-## Seize ans, quatre piles
+## 16 ans, quatre piles
 
 | Période | Stack |
 |---|---|
