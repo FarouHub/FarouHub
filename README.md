@@ -27,4 +27,4 @@ TypeScript · React · Next.js · Node.js · Prisma · PostgreSQL · Symfony · 
 
 ## Me contacter
 
-[LinkedIn](https://www.linkedin.com/in/nicolas-sittler-cdp) · sittler.n@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nicolas-sittler-cdp) · nicolas.sittler@codelsior.fr
