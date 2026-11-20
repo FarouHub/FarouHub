@@ -17,7 +17,7 @@ Je change de technologie quand le produit l'exige, pas par mode.
 ## Ce que je construis
 
 - Une plateforme SaaS multi-tenant de réservation, de bout en bout
-- Des paiements Stripe Connect sur environ 150 comptes
+- Des paiements Stripe Connect sur environ 300 comptes
 - Des intégrations temps réel avec des logiciels tiers (API REST, webhooks)
 - Du développement piloté par agents IA, de la spécification aux tests
 
